@@ -1,6 +1,9 @@
 Made initially to mess around but after using it thought i had to share 
 Use with caution xD
 
+Showcase:
+https://youtu.be/MT1WlWeouVg
+
 Examples and Instructions at the bottom
 
 --QBCore jumpscare script (god commands)--
@@ -20,7 +23,6 @@ Instructions:
 You need: interact-sound, and a QBCore server
 Place .ogg files into (interact-sound/client/html/sounds)
 Place td-jumpscare into [standalone] and start server Or place td-jumpscare into resources and ensure td-jumpscare
-
 
 Examples:
 '/hello' - will play little girl "hello" in your own ears. if you do '/hello' 1 this will send it to id 1.
