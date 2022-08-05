@@ -2,7 +2,7 @@ Made initially to mess around but after using it thought i had to share
 Use with caution xD
 
 Showcase:
-https://youtu.be/MT1WlWeouVg
+https://youtu.be/_nS_twJbAo4
 
 Examples and Instructions at the bottom
 
