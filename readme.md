@@ -11,13 +11,15 @@ Examples and Instructions at the bottom
 
 Created from
 qb-poop (thanks Evil)
+
 https://github.com/MrEvilGamer/qb-poop
 
 Used qb-printer ui page
 
 For QBCore Community <3
 
-QBCore DC - 
+QBCore DC 
+
 https://discord.gg/qbcore
 
 Instructions: 
