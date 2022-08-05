@@ -47,5 +47,5 @@ Examples:
 
 '/findmenear' - will play little girl "can you find me" in your own ears and nearby your player. if you do '/findme 1' this will send it to id 1 and nearby players.
 
-'/scare' - will send yourself a jumpscare. '/jumpscare 1' will send id 1 a jumpscare
+'/scare' - will send yourself a jumpscare. '/scare 1' will send id 1 a jumpscare
 
