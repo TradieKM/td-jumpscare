@@ -1,51 +1,30 @@
-Made initially to mess around but after using it thought i had to share 
+# QBCore Jumpscare Script (God Commands)
 
-Use with caution xD
+## Created from `qb-poop` by Evil
 
-Showcase:
-https://youtu.be/_nS_twJbAo4
+GitHub repository: https://github.com/MrEvilGamer/qb-poop
 
-Examples and Instructions at the bottom
+## QBCore DC Community
 
---QBCore jumpscare script (god commands)--
+Join the Discord community: https://discord.gg/qbcore
 
-Created from
-qb-poop (thanks Evil)
+## Requirements
 
-https://github.com/MrEvilGamer/qb-poop
+- `interact-sound`
+- A QBCore server
 
-Used qb-printer ui page
+## Instructions
 
-For QBCore Community <3
+1. Place `.ogg` files into `(interact-sound/client/html/sounds)`
+2. Rename `td-jumpscare-main` to `td-jumpscare`
+3. Place `td-jumpscare` into the `[standalone]` folder and start the server, or place it into `resources` and ensure `td-jumpscare` is running
 
-QBCore DC 
+## Available Commands
 
-https://discord.gg/qbcore
-
-
-
-
-Instructions: 
-
-You need: interact-sound, and a QBCore server
-
-Place .ogg files into (interact-sound/client/html/sounds)
-
-Rename td-jumpscare-main to td-jumpscare
-
-Place td-jumpscare into [standalone] and start server Or place td-jumpscare into resources and ensure td-jumpscare
-
-
-
-
-Examples:
-'/hello' - will play little girl "hello" in your own ears. if you do '/hello' 1 this will send it to id 1.
-
-'/hellonear' - will play little girl "hello" in your own ears and nearby your player. if you do '/hellonear 1' this will send it to id 1 and nearby players.
-
-'/findme' - will play little girl "can you find me" in your own ears. if you do '/findme 1' this will send it to id 1.
-
-'/findmenear' - will play little girl "can you find me" in your own ears and nearby your player. if you do '/findmenear 1' this will send it to id 1 and nearby players.
-
-'/scare' - will send yourself a jumpscare. '/scare 1' will send id 1 a jumpscare
-
+Command | Description | Example
+--- | --- | ---
+`/hello` | Play "hello" in your own ears | `/hello` or `/hello 1` (to send to ID 1)
+`/hellonear` | Play "hello" in your own ears and nearby players | `/hellonear` or `/hellonear 1` (to send to ID 1 and nearby players)
+`/findme` | Play "can you find me" in your own ears | `/findme` or `/findme 1` (to send to ID 1)
+`/findmenear` | Play "can you find me" in your own ears and nearby players | `/findmenear` or `/findmenear 1` (to send to ID 1 and nearby players)
+`/scare` | Send yourself a jumpscare | `/scare` or `/scare 1` (to send to ID 1)
