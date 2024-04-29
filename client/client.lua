@@ -11,7 +11,7 @@ RegisterNetEvent('just-scare-it', function()
 end)
   
 	RegisterNetEvent('just-scare-it', function(ItemData)
-    local DocumentUrl = 'https://cdn.discordapp.com/attachments/924357952217952329/1004872191499829420/asdasda.png'
+    local DocumentUrl = 'https://r2.fivemanage.com/qmzgcjpDuAUvYzfat1CeL/jumpscare.png'
 	SendNUIMessage({
 		action = "open",
 		url = DocumentUrl
